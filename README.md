@@ -115,7 +115,7 @@ gcc board.o commonlib.o program.o settings.o userInterface.o game.o list.o log.o
 ```make
 make (OPTIONAL ARGUMENTS: -SECRET=1 -EDITOR=1)
 ```
-
+<--
 ### Installation
  
 1. Clone the repo
@@ -126,7 +126,7 @@ git clone https://github.com/github_username/repo.git
 ```sh
 npm install
 ```
-
+-->
 
 
 <!-- USAGE EXAMPLES -->
