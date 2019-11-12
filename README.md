@@ -84,23 +84,28 @@ We had to make tictactoe in c89.
 
 ### Built With
 
-* []("Editor: Atom/Vim")
-* []("Compiled With: GCC")
-* [](Makefile optional.)
+* Editor: Atom/Vim
+* Compiled With: GCC
+* Makefile optional.
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+Clone this git repo
+After compilation (via my attached makefile or through gcc commands), the program can be run through a unix commandline 
+with the command ./TicTacToe FILENAME (there is attached testFiles in testFiles directory)
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* gcc
 ```sh
 npm install npm@latest -g
+```
+* makefile
+```make
+make (OPTIONAL ARGUMENTS: -SECRET=1 -EDITOR=1)
 ```
 
 ### Installation
