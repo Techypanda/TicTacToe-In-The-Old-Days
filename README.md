@@ -38,19 +38,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">UCP Assignment 2019</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    The TicTacToe assignment written in C89 for my Computer Science Degree (100%)
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Techypanda/UCP-Assignment-2019"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/Techypanda/UCP-Assignment-2019">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/Techypanda/UCP-Assignment-2019/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/Techypanda/UCP-Assignment-2019/issues">Request Feature</a>
   </p>
 </p>
 
