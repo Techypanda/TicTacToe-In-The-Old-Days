@@ -78,16 +78,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+We had to make tictactoe in c89.
+**no memleaks and memerrors (100%)**
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* []("Editor: Atom/Vim")
+* []("Compiled With: GCC")
+* [](Makefile optional.)
 
 
 
