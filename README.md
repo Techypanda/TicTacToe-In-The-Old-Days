@@ -132,19 +132,20 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+Run it like so in a terminal window.
+./TicTacToe FILE
+File is a text file with m n k dimensions, as this is really M N K game.
+If EDITOR is compiled with the program, you may edit MNK at runtime
+if SECRET is compiled you lose a option in menu.
 
 <!-- ROADMAP -->
+<!--
 ## Roadmap
 
 See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
 
 
-
+-->
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -168,19 +169,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@twitter_handle](https://twitter.com/techypanda2) - email
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://github.com/github_username/repo](https://github.com/Techypanda/UCP-Assignment-2019)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
-
+* myself
+* me
+* oh and I
+* and maybe a little shoutout to my lecturer
+* but again, it was me dio.
 
 
 
