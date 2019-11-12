@@ -101,7 +101,15 @@ with the command ./TicTacToe FILENAME (there is attached testFiles in testFiles 
 
 * gcc
 ```sh
-npm install npm@latest -g
+gcc -Wall -Werror -pedantic -ansi -c board.c (OPTIONAL ARGUMENTS: -D SECRET=1 -D EDITOR=1)
+gcc -Wall -Werror -pedantic -ansi -c commonlib.c (OPTIONAL ARGUMENTS: -D SECRET=1 -D EDITOR=1)
+gcc -Wall -Werror -pedantic -ansi -c program.c (OPTIONAL ARGUMENTS: -D SECRET=1 -D EDITOR=1)
+gcc -Wall -Werror -pedantic -ansi -c settings.c (OPTIONAL ARGUMENTS: -D SECRET=1 -D EDITOR=1)
+gcc -Wall -Werror -pedantic -ansi -c userInterface.c (OPTIONAL ARGUMENTS: -D SECRET=1 -D EDITOR=1)
+gcc -Wall -Werror -pedantic -ansi -c game.c (OPTIONAL ARGUMENTS: -D SECRET=1 -D EDITOR=1)
+gcc -Wall -Werror -pedantic -ansi -c list.c (OPTIONAL ARGUMENTS: -D SECRET=1 -D EDITOR=1)
+gcc -Wall -Werror -pedantic -ansi -c log.c (OPTIONAL ARGUMENTS: -D SECRET=1 -D EDITOR=1)
+gcc board.o commonlib.o program.o settings.o userInterface.o game.o list.o log.o -o TicTacToe
 ```
 * makefile
 ```make
